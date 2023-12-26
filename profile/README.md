@@ -1,4 +1,4 @@
-# ![vixen logo](./assets/vixen_logo_md.png) Vixen Shell Project
+# ![vixen logo](/profile/assets/vixen_logo_md.png) Vixen Shell Project
 
 ## Linux Desktop Environment
 
