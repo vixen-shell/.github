@@ -1,2 +1,0 @@
-# .github
-Vixen Shell Project.
