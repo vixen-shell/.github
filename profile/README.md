@@ -1,10 +1,10 @@
-# ![vixen logo](/profile/assets/vixen_logo_md.png) Vixen Shell Project
+# ![](/profile/assets/vixen_logo_md.png) Vixen Shell Project
 
-## Linux Desktop Environment
+## Presentation
 
-The Vixen Shell project represents an initiative aimed at creating a user-friendly desktop environment for Linux users, focused on development. Built upon the Hyprland window manager, this project stands out for its use of Python for the backend and web technologies like JavaScript, HTML, and CSS for the user interface (front-end).
+The Vixen Shell project is an initiative dedicated to creating a highly customizable desktop environment for [Wayland](https://wayland.freedesktop.org/) users on Linux. Designed with a focus on development, it allows users to code the various components necessary to build their own desktop environment. This project is particularly useful for users of window managers such as [Sway](https://swaywm.org/) or [Hyprland](https://hyprland.org/).
 
-> **Note :** This is a development project that has just emerged from its proof of concept phase and is still in its alpha version.
+Vixen Shell stands out by using [Python](https://www.python.org/) for the back-end, while the user interface (front-end) is developed with modern web technologies such as [React](https://fr.legacy.reactjs.org/), [TypeScript](https://www.typescriptlang.org/) and CSS.
 
 <!--
 **Here are some ideas to get you started:**
